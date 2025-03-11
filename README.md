@@ -2,7 +2,7 @@
 
 <p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=ooemperor&show_icons=true&theme=dark&rank_icon=github&include_orgs&exclude_repo=PSEGrader" />
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooemperor&hide=true&theme=dark&layout=compact&langs_count=8&exclude_repo=PSEGrader" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ooemperor&hide=true&theme=dark&layout=compact&langs_count=10&exclude_repo=PSEGrader" />
 </p>
 
 <!--
